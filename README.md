@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Haroon Raza's GitHub" src="https://github-readme-stats.vercel.app/api?username=HaroonRaza&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
+  <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HaroonRaza">
-    <img src="https://img.shields.io/github/followers/HaroonRaza?label=Follow&style=social" />
+  <a href="https://github.com/voltvirtuoso">
+    <img src="https://img.shields.io/github/followers/voltvirtuoso?label=Follow&style=social" />
   </a>
 </p>
