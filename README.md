@@ -22,7 +22,7 @@
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="mailto:haroonraza@example.com">
+  <a href="mailto:haroonraza63@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/haroon-raza">
