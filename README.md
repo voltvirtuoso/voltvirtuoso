@@ -6,21 +6,9 @@
   <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
-<h2 align="center">🌟 Top Repositories</h2>
+<h2 align="center">📊 Languages & Tools</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository1&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository2&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository3&theme=radical" />
-  <!-- Replace Repository1, Repository2, Repository3 with your top repositories -->
-</p>
-
-<h2 align="center">📈 Recent Activity</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
-</p>
-
-<h2 align="center">🔧 Technologies & Tools</h2>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&theme=radical" alt="Languages" />
   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
