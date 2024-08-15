@@ -6,6 +6,24 @@
   <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
+<h2 align="center">🌟 Top Repositories</h2>
+<p align="center">
+  <a href="https://github.com/voltvirtuoso/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/voltvirtuoso/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project2&theme=radical" />
+  </a>
+  <a href="https://github.com/voltvirtuoso/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project3&theme=radical" />
+  </a>
+</p>
+
+<h2 align="center">📈 Recent Activity</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
+</p>
+
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
