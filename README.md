@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Electrical%20Engineering%20Student;Circuit%20Design%20and%20Programming;Python%20and%20C++%20Enthusiast;Open-Source%20Contributor;Tech%20and%20Hardware%20Integration;Innovation%20and%20Creativity&font=Fira%20Code&center=true&width=440&height=45&color=00bfae&vCenter=true&pause=1000&size=22" />
   </a>
@@ -11,19 +10,13 @@
 
 <h2>🔥 Streak Stats</h2>
 <div align="center">
-    <a href="https://github.com/HaroonRaza">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Haroon Raza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRaza&theme=highcontrast&layout=compact"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Haroon Raza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRaza&theme=highcontrast&layout=compact"/>
 </div>
 
 <h2>💻 GitHub Profile Stats</h2>
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/HaroonRaza">
-    <img alt="Haroon Raza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HaroonRaza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00bfae&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/HaroonRaza/github-readme-stats">
-    <img alt="Haroon Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HaroonRaza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00bfae&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </a>
+  <img alt="Haroon Raza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HaroonRaza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00bfae&icon_color=F8D866" height="192px"/>
+  <img alt="Haroon Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HaroonRaza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00bfae&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </div>
 
 <h2>📈 My Last 7-Days Activity</h2>
@@ -35,9 +28,7 @@
 <h2>💼 My Contribution Graph</h2>
 <br/>
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/HaroonRaza/github-readme-activity-graph">
-    <img alt="Haroon Raza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HaroonRaza&bg_color=1F222E&color=F8D866&line=00bfae&point=FFFFFF&hide_border=true" />
-  </a>
+  <img alt="Haroon Raza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HaroonRaza&bg_color=1F222E&color=F8D866&line=00bfae&point=FFFFFF&hide_border=true" />
 </div>
 
 <details>
@@ -85,10 +76,10 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     </p>
 
-    <h3>💻 Software and Tools</h3>
+    <h3>🔧 Tools</h3>
     <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
     </p>
   </div>
