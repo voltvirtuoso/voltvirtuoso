@@ -11,7 +11,7 @@
   <h2>🔥 Streak Stats</h2>
 <div align="center">
     <a href="https://rb.gy/7o3n90">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="im-muhammadumair's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=im-muhammadumair&theme=highcontrast&layout=compact"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="volvirtuoso's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=im-muhammadumair&theme=highcontrast&layout=compact"/>
     </a>
   
 <div align="center">
