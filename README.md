@@ -8,13 +8,15 @@
 
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&hide_title=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=some-repo&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository2&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=Repository3&theme=radical" />
+  <!-- Replace Repository1, Repository2, Repository3 with your top repositories -->
 </p>
 
 <h2 align="center">📈 Recent Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
