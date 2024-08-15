@@ -6,9 +6,13 @@
   <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
-<h2 align="center">📊 Languages & Tools</h2>
+<h2 align="center">📊 Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&theme=radical" alt="Languages" />
+</p>
+
+<h2 align="center">🔧 Tools & Technologies</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
