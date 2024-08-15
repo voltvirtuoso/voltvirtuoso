@@ -8,20 +8,13 @@
 
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
-  <a href="https://github.com/voltvirtuoso/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/voltvirtuoso/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project2&theme=radical" />
-  </a>
-  <a href="https://github.com/voltvirtuoso/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=project3&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&hide_title=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=voltvirtuoso&repo=some-repo&theme=radical" />
 </p>
 
 <h2 align="center">📈 Recent Activity</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=voltvirtuoso&theme=radical" alt="Recent Activity" />
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
