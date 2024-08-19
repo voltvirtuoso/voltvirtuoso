@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
+  <img alt="Haroon Raza's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
 </p>
 
 <h2 align="center">📊 Languages</h2>
