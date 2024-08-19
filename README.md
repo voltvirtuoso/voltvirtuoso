@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
 </p>
 
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" /> <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=mikel-brostrom&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight" />
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" /> 
 
 ![](https://komarev.com/ghpvc/?username=voltvirtuoso&color=green)
 
