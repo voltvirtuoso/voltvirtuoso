@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/haroon-raza">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/haroonraza">
+  <a href="https://twitter.com/haroonrza">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
 </p>
