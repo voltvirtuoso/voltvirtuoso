@@ -6,6 +6,10 @@
   <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
+</p>
+
 <h2 align="center">📊 Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&theme=radical" alt="Languages" />
@@ -20,13 +24,6 @@
   <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
 </p>
 
-<p align="center">
-  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voltvirtuoso&color=green" />
-</p>
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
@@ -40,7 +37,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voltvirtuoso&color=green" />
+</p>
 <p align="center">
   <a href="https://github.com/voltvirtuoso">
     <img src="https://img.shields.io/github/followers/voltvirtuoso?label=Follow&style=social" />
