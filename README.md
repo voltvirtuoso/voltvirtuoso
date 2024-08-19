@@ -20,9 +20,13 @@
   <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
 </p>
 
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" /> 
+<p align="center">
+  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=voltvirtuoso&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voltvirtuoso&color=green" />
+</p>
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
