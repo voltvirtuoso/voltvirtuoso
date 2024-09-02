@@ -24,6 +24,15 @@
   <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
 </p>
 
+<div align="center">
+    
+ ![](https://github-readme-stats.vercel.app/api?username=momina-sheikh-dev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=momina-sheikh-dev&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false)<br/>-->
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=momina-sheikh-dev&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</div>
+<br>
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
