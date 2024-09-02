@@ -34,13 +34,9 @@
   <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
 </p>
 
-
-<br>
 <h2 align="center">Github Graph &nbsp <img align="center" height="50" src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif"  /> </h2>
 
 [![haroon-raza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voltvirtuoso&theme=github-compact	)](https://github.com/momina-sheikh-dev/github-readme-activity-graph)
-
-<br>
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
