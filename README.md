@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm Haroon Raza, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
+  👋 Hi there! I'm **Haroon Raza**, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-### Smart Cart ML Module
+### 🛒 Smart Cart ML Module
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ongoing-blue" />
 </p>
@@ -48,7 +48,7 @@
 - Optimized AI inference using OpenVINO, reducing processing time from 450ms to 140ms.
 - Added text-to-speech and voice assistant features for enhanced accessibility.
 
-### Smart Home System with ESP32
+### 🏠 Smart Home System with ESP32
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-green" />
 </p>
@@ -56,7 +56,7 @@
 - Monitored temperature, humidity, and power usage from solar, generator, and grid sources.
 - Created a mobile app using MIT App Inventor for seamless control and monitoring.
 
-### Line Following Robot
+### 🤖 Line Following Robot
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-green" />
 </p>
@@ -130,3 +130,35 @@
     <img src="https://img.shields.io/github/followers/voltvirtuoso?label=Follow&style=social" />
   </a>
 </p>
+
+---
+
+### Additional Enhancements:
+1. **Animated GIFs**: Add subtle animations to make sections pop.
+   ```html
+   <img align="center" height="50" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
+   ```
+
+2. **Progress Bars**: Use progress bars to showcase skills visually.
+   ```html
+   <p align="center">
+     <img src="https://progress-bar.dev/80/?title=Python" />
+     <img src="https://progress-bar.dev/70/?title=C%2B%2B" />
+     <img src="https://progress-bar.dev/60/?title=AI" />
+   </p>
+   ```
+
+3. **Interactive Badges**: Use shields.io for dynamic badges.
+   ```html
+   <img src="https://img.shields.io/badge/Project-Smart%20Cart%20ML%20Module-blue" />
+   ```
+
+4. **Collapsible Sections**: Use HTML `<details>` tags for collapsible content.
+   ```html
+   <details>
+     <summary>Expand for More Details</summary>
+     <p>This section contains additional information.</p>
+   </details>
+   ```
+
+This version is designed to be engaging, professional, and visually striking while maintaining clarity and structure.
