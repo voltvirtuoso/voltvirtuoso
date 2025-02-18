@@ -131,34 +131,3 @@
   </a>
 </p>
 
----
-
-### Additional Enhancements:
-1. **Animated GIFs**: Add subtle animations to make sections pop.
-   ```html
-   <img align="center" height="50" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" />
-   ```
-
-2. **Progress Bars**: Use progress bars to showcase skills visually.
-   ```html
-   <p align="center">
-     <img src="https://progress-bar.dev/80/?title=Python" />
-     <img src="https://progress-bar.dev/70/?title=C%2B%2B" />
-     <img src="https://progress-bar.dev/60/?title=AI" />
-   </p>
-   ```
-
-3. **Interactive Badges**: Use shields.io for dynamic badges.
-   ```html
-   <img src="https://img.shields.io/badge/Project-Smart%20Cart%20ML%20Module-blue" />
-   ```
-
-4. **Collapsible Sections**: Use HTML `<details>` tags for collapsible content.
-   ```html
-   <details>
-     <summary>Expand for More Details</summary>
-     <p>This section contains additional information.</p>
-   </details>
-   ```
-
-This version is designed to be engaging, professional, and visually striking while maintaining clarity and structure.
