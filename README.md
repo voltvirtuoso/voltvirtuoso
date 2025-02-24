@@ -105,7 +105,10 @@
 ---
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
-[![haroon-raza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voltvirtuoso&theme=github-compact)](https://github.com/momina-sheikh-dev/github-readme-activity-graph)
+![haroon-raza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voltvirtuoso&theme=github-compact)
+
+[https://github.com/momina-sheikh-dev/github-readme-activity-graph]
+
 
 ---
 
