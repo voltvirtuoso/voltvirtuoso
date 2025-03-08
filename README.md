@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm **Haroon Raza**, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
+  👋 Hi there! I'm Haroon Raza, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
 </p>
 
 ---
@@ -102,15 +102,6 @@
   <img src="https://img.shields.io/badge/Certification-Introduction%20to%20R-purple" />
 </p>
 
----
-
-<h2 align="center">📈 GitHub Activity Graph</h2>
-![haroon-raza github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=voltvirtuoso&theme=github-compact)
-
-[https://github.com/momina-sheikh-dev/github-readme-activity-graph]
-
-
----
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
