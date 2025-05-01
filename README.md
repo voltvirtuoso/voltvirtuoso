@@ -6,20 +6,13 @@
   👋 Hi there! I'm Haroon Raza, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
 </p>
 
----
+<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
 
 <h2 align="center">📊 My Stats</h2>
 <p align="center">
-  <img alt="Haroon Raza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img alt="Haroon Raza's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltvirtuoso&layout=compact&theme=radical" />
-</p>
-
----
 
 <h2 align="center">🔧 Tools & Technologies</h2>
 <p align="center">
@@ -35,35 +28,29 @@
   <img src="https://img.shields.io/badge/AI-FBBD08?logo=artificialintelligence&logoColor=white" />
 </p>
 
----
+<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
 
 <h2 align="center">🚀 Projects</h2>
 
 ### 🛒 Smart Cart ML Module
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ongoing-blue" />
-</p>
-- Integrated barcode and QR code scanning for item recognition.
-- Developed an interactive interface with Raspberry Pi 5 for real-time updates.
-- Optimized AI inference using OpenVINO, reducing processing time from 450ms to 140ms.
-- Added text-to-speech and voice assistant features for enhanced accessibility.
+<p align="center"><img src="https://img.shields.io/badge/Status-Ongoing-blue" /></p>
+- Integrated barcode/QR code scanning for item recognition.
+- Developed Raspberry Pi 5 interface for real-time updates.
+- Optimized AI inference with OpenVINO (450ms → 140ms).
+- Added text-to-speech and voice assistant features.
 
 ### 🏠 Smart Home System with ESP32
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-green" />
-</p>
-- Enabled online control of devices via Firebase integration.
-- Monitored temperature, humidity, and power usage from solar, generator, and grid sources.
-- Created a mobile app using MIT App Inventor for seamless control and monitoring.
+<p align="center"><img src="https://img.shields.io/badge/Status-Completed-green" /></p>
+- Enabled Firebase integration for online device control.
+- Monitored temperature, humidity, and power sources (solar/grid).
+- Built MIT App Inventor mobile app for seamless control.
 
 ### 🤖 Line Following Robot
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-green" />
-</p>
-- Developed a robot with precise movement using PID control algorithms.
-- Achieved seamless integration of robotics concepts like embedded systems.
+<p align="center"><img src="https://img.shields.io/badge/Status-Completed-green" /></p>
+- Implemented PID control algorithms for precise movement.
+- Integrated robotics concepts like embedded systems.
 
----
+<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
 
 <h2 align="center">🎓 Education</h2>
 <p align="center">
@@ -71,29 +58,23 @@
     <img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad-Bachelor%20of%20Science%20in%20Electrical%20Engineering-blue" />
   </a>
 </p>
-- Gained expertise in circuit design, PCB design, programming fundamentals, and microprocessor interfacing.
-- Volunteered with IEEE CS CUI and IEEE RAS CUI, organizing prestigious events like PSYWSC’23.
-
----
+- Expertise in circuit design, PCB design, and microprocessor interfacing.
+- Volunteered with IEEE CS CUI and IEEE RAS CUI (e.g., PSYWSC’23).
 
 <h2 align="center">💼 Experience</h2>
 
 ### National Institute of Electronics
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Engineering%20Intern-lightblue" />
-</p>
-- Reverse engineered dot matrix display systems and developed libraries for improved functionality.
-- Worked on AI-based projects, including object detection with YOLO and text recognition using EasyOCR.
-- Contributed to a smart parking management system with real-time vehicle monitoring.
+<p align="center"><img src="https://img.shields.io/badge/Role-Engineering%20Intern-lightblue" /></p>
+- Reverse engineered dot matrix display systems.
+- Worked on YOLO object detection and EasyOCR projects.
+- Contributed to a smart parking management system.
 
 ### IEEE COMSATS University Islamabad
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Operations%20Manager-orange" />
-</p>
-- Managed operations for IEEE events, ensuring smooth execution and timely completion of tasks.
-- Implemented modern productivity tools like G Suite for enhanced collaboration.
+<p align="center"><img src="https://img.shields.io/badge/Role-Operations%20Manager-orange" /></p>
+- Managed operations for IEEE events.
+- Implemented G Suite for collaboration.
 
----
+<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
 
 <h2 align="center">📜 Certifications</h2>
 <p align="center">
@@ -101,7 +82,6 @@
   <img src="https://img.shields.io/badge/Certification-MATLAB%20Programming-blue" />
   <img src="https://img.shields.io/badge/Certification-Introduction%20to%20R-purple" />
 </p>
-
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
@@ -119,9 +99,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voltvirtuoso&color=green" />
 </p>
+
 <p align="center">
   <a href="https://github.com/voltvirtuoso">
     <img src="https://img.shields.io/github/followers/voltvirtuoso?label=Follow&style=social" />
   </a>
 </p>
-
