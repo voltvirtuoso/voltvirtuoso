@@ -1,107 +1,66 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical%20Engineering%20Student;Circuit%20Design%20and%20Programming;Python%20and%20C++%20Enthusiast;Open-Source%20Contributor;Tech%20and%20Hardware%20Integration;Innovation%20and%20Creativity&font=Fira%20Code&center=true&width=440&height=45&color=00bfae&vCenter=true&pause=1000&size=22" />
-</p>
+<div style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); color: #fff; padding: 2rem; border-radius: 15px; font-family: 'Segoe UI', sans-serif;">
+  <!-- Hero Section -->
+  <div align="center" style="margin-bottom: 2rem;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Electrical%20Engineering%20Student;Circuit%20Design%20and%20Programming;Python%20and%20C++%20Enthusiast;Open-Source%20Contributor;Tech%20and%20Hardware%20Integration;Innovation%20and%20Creativity&font=Fira%20Code&center=true&width=440&height=45&color=00bfae&vCenter=true&pause=1000&size=22" />
+    <p style="margin-top: 1rem; font-size: 1.2rem;">👋 Hi there! I'm Haroon Raza, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability.</p>
+  </div>
 
-<p align="center">
-  👋 Hi there! I'm Haroon Raza, an Electrical Engineer (Computer) passionate about creating intelligent systems that bridge innovation and sustainability. With experience in reverse engineering, real-time object detection, and AI-driven solutions, I aim to push the boundaries of technology by designing impactful and scalable systems.
-</p>
+  <!-- Stats Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&theme=radical&show_icons=true" />
+    </div>
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&theme=tokyonight" />
+    </div>
+  </div>
 
-<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
+  <!-- Skills Section -->
+  <div style="margin-bottom: 2rem;">
+    <h2 align="center" style="color: #00bfae;">🔧 Tools & Technologies</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
+      <!-- Skill Badges -->
+      <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-FBBD08?logo=artificialintelligence&logoColor=white" />
+    </div>
+  </div>
 
-<h2 align="center">📊 My Stats</h2>
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=voltvirtuoso&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=voltvirtuoso&hide_border=true&theme=tokyonight" />
-</p>
+  <!-- Project Cards -->
+  <div style="margin-bottom: 2rem;">
+    <h2 align="center" style="color: #00bfae;">🚀 Projects</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+      <!-- Project 1 -->
+      <div style="background: #1e1e2f; padding: 1rem; border-radius: 10px; box-shadow: 0 0 10px #00bfae;">
+        <h3>🛒 Smart Cart ML Module</h3>
+        <p><img src="https://img.shields.io/badge/Status-Ongoing-blue" /></p>
+        <ul style="font-size: 0.9rem;">
+          <li>Integrated barcode/QR code scanning for item recognition.</li>
+          <li>Optimized AI inference using OpenVINO (450ms → 140ms).</li>
+        </ul>
+      </div>
+      <!-- Project 2 -->
+      <div style="background: #1e1e2f; padding: 1rem; border-radius: 10px; box-shadow: 0 0 10px #00bfae;">
+        <h3>🏠 Smart Home System with ESP32</h3>
+        <p><img src="https://img.shields.io/badge/Status-Completed-green" /></p>
+        <ul style="font-size: 0.9rem;">
+          <li>Enabled Firebase integration for online device control.</li>
+          <li>Built MIT App Inventor mobile app for seamless control.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-<h2 align="center">🔧 Tools & Technologies</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-0096D6?logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OrCAD-00A3E0?logo=orcad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Altium-FF6600?logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-F7931E?logo=internetofthings&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FBBD08?logo=artificialintelligence&logoColor=white" />
-</p>
-
-<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
-
-<h2 align="center">🚀 Projects</h2>
-
-### 🛒 Smart Cart ML Module
-<p align="center"><img src="https://img.shields.io/badge/Status-Ongoing-blue" /></p>
-- Integrated barcode/QR code scanning for item recognition.
-- Developed Raspberry Pi 5 interface for real-time updates.
-- Optimized AI inference with OpenVINO (450ms → 140ms).
-- Added text-to-speech and voice assistant features.
-
-### 🏠 Smart Home System with ESP32
-<p align="center"><img src="https://img.shields.io/badge/Status-Completed-green" /></p>
-- Enabled Firebase integration for online device control.
-- Monitored temperature, humidity, and power sources (solar/grid).
-- Built MIT App Inventor mobile app for seamless control.
-
-### 🤖 Line Following Robot
-<p align="center"><img src="https://img.shields.io/badge/Status-Completed-green" /></p>
-- Implemented PID control algorithms for precise movement.
-- Integrated robotics concepts like embedded systems.
-
-<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
-
-<h2 align="center">🎓 Education</h2>
-<p align="center">
-  <a href="https://www.comsats.edu.pk/">
-    <img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad-Bachelor%20of%20Science%20in%20Electrical%20Engineering-blue" />
-  </a>
-</p>
-- Expertise in circuit design, PCB design, and microprocessor interfacing.
-- Volunteered with IEEE CS CUI and IEEE RAS CUI (e.g., PSYWSC’23).
-
-<h2 align="center">💼 Experience</h2>
-
-### National Institute of Electronics
-<p align="center"><img src="https://img.shields.io/badge/Role-Engineering%20Intern-lightblue" /></p>
-- Reverse engineered dot matrix display systems.
-- Worked on YOLO object detection and EasyOCR projects.
-- Contributed to a smart parking management system.
-
-### IEEE COMSATS University Islamabad
-<p align="center"><img src="https://img.shields.io/badge/Role-Operations%20Manager-orange" /></p>
-- Managed operations for IEEE events.
-- Implemented G Suite for collaboration.
-
-<hr style="border:1px solid #00bfae; border-radius: 5px; width: 50%; margin: auto;">
-
-<h2 align="center">📜 Certifications</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Certification-Python%20Essentials-yellow" />
-  <img src="https://img.shields.io/badge/Certification-MATLAB%20Programming-blue" />
-  <img src="https://img.shields.io/badge/Certification-Introduction%20to%20R-purple" />
-</p>
-
-<h2 align="center">📫 Contact Me</h2>
-<p align="center">
-  <a href="mailto:haroonraza63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/haroon-raza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/haroonrza">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voltvirtuoso&color=green" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/voltvirtuoso">
-    <img src="https://img.shields.io/github/followers/voltvirtuoso?label=Follow&style=social" />
-  </a>
-</p>
+  <!-- Contact Section -->
+  <div align="center" style="margin-top: 2rem;">
+    <h2 style="color: #00bfae;">📫 Contact Me</h2>
+    <div style="display: flex; gap: 1rem; justify-content: center;">
+      <a href="mailto:haroonraza63@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/haroon-raza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+      <a href="https://twitter.com/haroonrza"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+    </div>
+  </div>
+</div>
