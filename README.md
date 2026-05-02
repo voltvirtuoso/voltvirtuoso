@@ -1,19 +1,17 @@
 <div align="center">
 
-# 👋 Haroon Raza
+# Haroon Raza
 ### Electrical Engineer (Computer) | Embedded Systems & IoT Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+Intelligent+Embedded+Systems;ESP32+%7C+IoT+%7C+AI+Integration;Open-Source+Contributor;Sustainable+Tech+Advocate)](https://git.io/typing-svg)
 
-> Bridging <span style="color:#ff6b6b">**hardware**</span> & <span style="color:#00ffcc">**software**</span> to build intelligent, sustainable embedded systems. Currently instrumenting industrial solutions at **VELOSI**. 🚀
+> Bridging <span style="color:#ff6b6b">**hardware**</span> & <span style="color:#00ffcc">**software**</span> to build intelligent, sustainable embedded systems. Currently instrumenting industrial solutions at **VELOSI**.
 
 ### 📬 Connect
 [![Email](https://img.shields.io/badge/📧_Email-haroonraza63@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroonraza63@gmail.com)
 [![Phone](https://img.shields.io/badge/📱_Phone-+92_331_1411160-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923311411160)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-haroon--khr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haroon-khr)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-voltvirtuoso-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voltvirtuoso)
-
-[![Location](https://img.shields.io/badge/📍_Location-Wazirabad_%2F_Islamabad,_Pakistan-00ffcc?style=flat-square)](#)
 
 <!-- LinkedIn Static Badge (GitHub doesn't support dynamic LinkedIn widgets) -->
 [![LinkedIn Profile](https://img.shields.io/badge/🔗_View_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/haroon-khr)
@@ -22,54 +20,58 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Technical Expertise
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+### 🔤 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Embedded & IoT**
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC16F-000000?style=flat-square&logo=microchip&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-000000?style=flat-square&logo=lorawan&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=mqtt&logoColor=white)
-![ESP-NOW](https://img.shields.io/badge/ESP--NOW-000000?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=freertos&logoColor=white)
+### 🔌 Embedded & IoT
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logo=microchip&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-000000?style=for-the-badge&logo=lorawan&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
 
-**Design Tools**
-![Altium](https://img.shields.io/badge/Altium-000000?style=flat-square&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-000000?style=flat-square&logo=kicad&logoColor=white)
-![OrCAD](https://img.shields.io/badge/OrCAD-000000?style=flat-square&logo=cadence&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-000000?style=flat-square&logo=labview&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+### 🎨 Design Tools
+![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-000000?style=for-the-badge&logo=kicad&logoColor=white)
+![OrCAD](https://img.shields.io/badge/OrCAD-000000?style=for-the-badge&logo=cadence&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=labview&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**AI/ML**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat-square&logo=ultralytics&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+### 🤖 AI/ML
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Backend & DevOps**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Protocols**
-![I2C](https://img.shields.io/badge/I2C-000000?style=flat-square&logo=arduino&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-000000?style=flat-square&logo=arduino&logoColor=white)
-![UART](https://img.shields.io/badge/UART-000000?style=flat-square&logo=arduino&logoColor=white)
-![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-000000?style=flat-square&logo=freeswitch&logoColor=white)
+### 🔗 Protocols
+![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-000000?style=for-the-badge&logo=freeswitch&logoColor=white)
+
+</div>
 
 ---
 
@@ -224,6 +226,6 @@
 
 ✨ Crafted with <span style="color:#ff6b6b">❤</span> | © 2026 Haroon Raza
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_2026-ff6b6b?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-May_2026-ff6b6b?style=flat-square)
 
 </div>
